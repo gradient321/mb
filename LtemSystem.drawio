@@ -207,14 +207,6 @@
         <mxCell id="UPASrjGuucmQVtDmvVat-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.025;entryY=0.394;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="ngVG8FKzC3dZtBz4TzPT-9" target="ngVG8FKzC3dZtBz4TzPT-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UPASrjGuucmQVtDmvVat-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.165;exitY=-0.008;exitDx=0;exitDy=0;entryX=0.983;entryY=0.131;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitPerimeter=0;" edge="1" parent="1" source="ngVG8FKzC3dZtBz4TzPT-7" target="ngVG8FKzC3dZtBz4TzPT-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-253" y="-897" />
-              <mxPoint x="-253" y="-949" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="UPASrjGuucmQVtDmvVat-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.949;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="ngVG8FKzC3dZtBz4TzPT-4" target="ngVG8FKzC3dZtBz4TzPT-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
